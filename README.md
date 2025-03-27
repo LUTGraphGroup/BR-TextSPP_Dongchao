@@ -1,5 +1,5 @@
 # BR-TextPP
-## "Improved automatic ICD coding based on fusion of multi-scale features and fine-tuned pre-training models"
+## "A transformer-driven multiscale feature fusion approach for automatic ICD coding"
 ### How to run code?  
 Step1:
 ```
